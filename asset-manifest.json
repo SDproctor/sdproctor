@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sdproctor/static/css/main.969798f9.css",
+    "main.js": "/sdproctor/static/js/main.be6a99d9.js",
+    "static/media/istockphoto-1178752391-612x612-removebg-preview 1.png": "/sdproctor/static/media/istockphoto-1178752391-612x612-removebg-preview 1.6025d9e1c7dbc4694191.png",
+    "static/media/Group 72.png": "/sdproctor/static/media/Group 72.d7359b6f9529930b64c8.png",
+    "static/media/Online test-amico 1.png": "/sdproctor/static/media/Online test-amico 1.cc86dd715c7ce3fba3cd.png",
+    "static/media/Editing body text-rafiki 1.png": "/sdproctor/static/media/Editing body text-rafiki 1.11abf6fb31be25bb2b52.png",
+    "static/media/Images-amico 1.png": "/sdproctor/static/media/Images-amico 1.8d30cf94868ef53767d7.png",
+    "static/media/Speed test-rafiki (1) 1.png": "/sdproctor/static/media/Speed test-rafiki (1) 1.244ae24bb07e6f150e27.png",
+    "static/media/Computer login-rafiki 1.png": "/sdproctor/static/media/Computer login-rafiki 1.f35f28c76bccbdffd847.png",
+    "static/media/About us page-rafiki 2.png": "/sdproctor/static/media/About us page-rafiki 2.d7bfd66829d4cb47a796.png",
+    "static/media/Sign up-rafiki (1) 1.png": "/sdproctor/static/media/Sign up-rafiki (1) 1.b20cf32b89791373c3e0.png",
+    "static/media/mynaui_image.png": "/sdproctor/static/media/mynaui_image.e3b5dc526ab665885f54.png",
+    "static/media/mdi_checkbox-marked-circle-outline.png": "/sdproctor/static/media/mdi_checkbox-marked-circle-outline.3e62d1388e3a7a5f482b.png",
+    "index.html": "/sdproctor/index.html",
+    "main.969798f9.css.map": "/sdproctor/static/css/main.969798f9.css.map",
+    "main.be6a99d9.js.map": "/sdproctor/static/js/main.be6a99d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.969798f9.css",
+    "static/js/main.be6a99d9.js"
+  ]
+}
