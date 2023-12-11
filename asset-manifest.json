@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sdproctor/static/css/main.969798f9.css",
-    "main.js": "/sdproctor/static/js/main.06cc9d5c.js",
+    "main.css": "/sdproctor/static/css/main.dcd76bdb.css",
+    "main.js": "/sdproctor/static/js/main.126b0f86.js",
     "static/media/istockphoto-1178752391-612x612-removebg-preview 1.png": "/sdproctor/static/media/istockphoto-1178752391-612x612-removebg-preview 1.6025d9e1c7dbc4694191.png",
     "static/media/Group 72.png": "/sdproctor/static/media/Group 72.d7359b6f9529930b64c8.png",
     "static/media/Online test-amico 1.png": "/sdproctor/static/media/Online test-amico 1.cc86dd715c7ce3fba3cd.png",
@@ -14,11 +14,11 @@
     "static/media/mynaui_image.png": "/sdproctor/static/media/mynaui_image.e3b5dc526ab665885f54.png",
     "static/media/mdi_checkbox-marked-circle-outline.png": "/sdproctor/static/media/mdi_checkbox-marked-circle-outline.3e62d1388e3a7a5f482b.png",
     "index.html": "/sdproctor/index.html",
-    "main.969798f9.css.map": "/sdproctor/static/css/main.969798f9.css.map",
-    "main.06cc9d5c.js.map": "/sdproctor/static/js/main.06cc9d5c.js.map"
+    "main.dcd76bdb.css.map": "/sdproctor/static/css/main.dcd76bdb.css.map",
+    "main.126b0f86.js.map": "/sdproctor/static/js/main.126b0f86.js.map"
   },
   "entrypoints": [
-    "static/css/main.969798f9.css",
-    "static/js/main.06cc9d5c.js"
+    "static/css/main.dcd76bdb.css",
+    "static/js/main.126b0f86.js"
   ]
 }
