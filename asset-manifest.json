@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sdproctor/static/css/main.dcd76bdb.css",
-    "main.js": "/sdproctor/static/js/main.229d16c0.js",
+    "main.js": "/sdproctor/static/js/main.0bdea29a.js",
     "static/media/istockphoto-1178752391-612x612-removebg-preview 1.png": "/sdproctor/static/media/istockphoto-1178752391-612x612-removebg-preview 1.6025d9e1c7dbc4694191.png",
     "static/media/Group 72.png": "/sdproctor/static/media/Group 72.d7359b6f9529930b64c8.png",
     "static/media/Online test-amico 1.png": "/sdproctor/static/media/Online test-amico 1.cc86dd715c7ce3fba3cd.png",
@@ -15,10 +15,10 @@
     "static/media/mdi_checkbox-marked-circle-outline.png": "/sdproctor/static/media/mdi_checkbox-marked-circle-outline.3e62d1388e3a7a5f482b.png",
     "index.html": "/sdproctor/index.html",
     "main.dcd76bdb.css.map": "/sdproctor/static/css/main.dcd76bdb.css.map",
-    "main.229d16c0.js.map": "/sdproctor/static/js/main.229d16c0.js.map"
+    "main.0bdea29a.js.map": "/sdproctor/static/js/main.0bdea29a.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd76bdb.css",
-    "static/js/main.229d16c0.js"
+    "static/js/main.0bdea29a.js"
   ]
 }
