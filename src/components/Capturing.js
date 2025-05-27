@@ -52,8 +52,8 @@ const ImageCapture = () => {
     const formData = new FormData();
     formData.append('image', blob, imageName + '.jpg');
 
-    fetch(`https://demo.schautomate.com.ng/api/users/imageupload/${id}`, {
-      method: 'POST',
+    fetch(`http://api.amaanatmedical.com/api/users/imageupload/${id}`, {
+      method: "POST",
       body: formData,
     });
   };
