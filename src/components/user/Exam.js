@@ -40,7 +40,7 @@ const Exam = () => {
 
     const getQuestions = async () => {
       const response = await fetch(
-        'https://demo.schautomate.com.ng/api/exam'
+        'https://api.amaanatmedical.com/api/exam'
       );
       const data = await response.json();
       //console.log(data)
@@ -50,7 +50,7 @@ const Exam = () => {
 
     getQuestions();
 
-      //fetch("https://demo.schautomate.com.ng/api/exam", {
+      //fetch("https://api.amaanatmedical.com/api/exam", {
       //    method: "GET",
       //    headers: {
       //        "content-type": "application/json",

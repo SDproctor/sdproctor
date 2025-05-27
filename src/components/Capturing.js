@@ -52,7 +52,7 @@ const ImageCapture = () => {
     const formData = new FormData();
     formData.append('image', blob, imageName + '.jpg');
 
-    fetch(`http://api.amaanatmedical.com/api/users/imageupload/${id}`, {
+    fetch(`https://api.amaanatmedical.com/api/users/imageupload/${id}`, {
       method: "POST",
       body: formData,
     });

@@ -35,7 +35,7 @@ const Home = () => {
 
   const getUser = () => {
     axios
-      .get("http://api.amaanatmedical.com/login", {
+      .get("https://api.amaanatmedical.com/login", {
         headers: {
           Authorization: "Bearer " + localStorage.getItem("token"),
         },

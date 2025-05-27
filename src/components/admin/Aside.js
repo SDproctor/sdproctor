@@ -7,7 +7,7 @@ import { Users } from './Users'
 
 const Aside = () => {
 
-    const [activeTab, setActiveTab] = useState("tab2");
+    const [activeTab, setActiveThttab] = useState("tab2");
 
     //  Functions to handle Tab Switching
     const handleTab1 = () => {

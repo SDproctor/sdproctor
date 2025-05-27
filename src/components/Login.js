@@ -32,7 +32,7 @@ const Login = () => {
       password: data.password,
     };
     axios
-      .post("http://api.amaanatmedical.com/login", userData)
+      .post("https://api.amaanatmedical.com/login", userData)
       .then((response) => {
         console.log(response, response.data.token);
         //console.log(document.cookie)

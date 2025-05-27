@@ -53,13 +53,13 @@ const ImageVerify = () => {
     const formData = new FormData();
     formData.append("image", blob, imageName + ".jpg");
 
-    fetch(`http://api.amaanatmedical.com/api/users/imageupload2/${id}`, {
+    fetch(`https://api.amaanatmedical.com/api/users/imageupload2/${id}`, {
       method: "POST",
       body: formData,
     });
 
     const response = fetch(
-      `http://api.amaanatmedical.com/api/users/verification/${id}`,
+      `https://api.amaanatmedical.com/api/users/verification/${id}`,
       {
         method: "GET",
       }

@@ -6,7 +6,7 @@ const Users = () => {
   useEffect(() => {
     const getUsers = async () => {
       try {
-        const response = await fetch("http://api.amaanatmedical.com/api/users");
+        const response = await fetch("https://api.amaanatmedical.com/api/users");
 
         if (response.ok) {
           const data = await response.json();

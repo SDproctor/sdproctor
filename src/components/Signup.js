@@ -26,7 +26,7 @@ const Register = () => {
       password: state.password,
     };
     axios
-      .post("http://api.amaanatmedical.com/api/users/register", userData)
+      .post("https://api.amaanatmedical.com/api/users/register", userData)
       .then((response) => {
         console.log(response, response.data);
         localStorage.setItem("signup-id", JSON.stringify(response));

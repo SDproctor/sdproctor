@@ -22,7 +22,7 @@ const Exams = () => {
     e.preventDefault();
 
     try {
-      const response = await fetch("http://api.amaanatmedical.com/api/exam", {
+      const response = await fetch("https://api.amaanatmedical.com/api/exam", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
